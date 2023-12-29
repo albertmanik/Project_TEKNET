@@ -1,0 +1,96 @@
+﻿@model VaksinTracking_05.Models.Akun
+
+@{
+    ViewBag.Title = "Login";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <!doctype html>
+    <html class="no-js" lang="">
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Login</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Favicon -->
+        <link rel="shortcut icon" type="image/x-icon" href="~/Assets/img/logo.jpeg">
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="~/Assets/css/bootstrap.min.css">
+        <!-- Fontawesome CSS -->
+        <link rel="stylesheet" href="~/Assets/css/fontawesome-all.min.css">
+        <!-- Flaticon CSS -->
+        <link rel="stylesheet" href="~/Assets/font/flaticon.css">
+        <!-- Google Web Fonts -->
+        <link href="../../../../fonts.googleapis.com/css89ea.css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet">
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="~/Assets/style.css">
+    </head>
+
+    <body>
+        <div id="preloader" class="preloader">
+            <div class='inner'>
+                <div class='line1'></div>
+                <div class='line2'></div>
+                <div class='line3'></div>
+            </div>
+        </div>
+        <section class="fxt-template-animation fxt-template-layout23" style="background-image: url('/Assets/img/figure/bg23-l.jpg');background-size: cover; background-position: center;">
+            <div class="fxt-bg-overlay" data-bg-image="~/Assets/img/elements/overlay.png">
+                <div class="fxt-content">
+                    <div class="fxt-header">
+                        <a href="login-23.html" class="fxt-logo"><img src="~/Assets/img/logo.jpeg" alt="Logo" width="200" height="200"></a>
+                    </div>
+                    <div class="fxt-form">
+                        <p>Login into your account</p>
+                        <form action="Login" method="POST">
+                            <div class="form-group">
+                                <div class="fxt-transformY-50 fxt-transition-delay-1">
+                                    <input type="text" id="username" class="form-control" @Html.EditorFor(model => model.username, new { htmlAttributes = new { @name = "Username", @placeholder = "Username", @required = "", @autofokus = "autofocus" } })
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="fxt-transformY-50 fxt-transition-delay-2">
+                                    <input id="password" type="password" class="form-control" @Html.EditorFor(model => model.password, new { htmlAttributes = new { @name = "Password", @placeholder = "Password", @required = "" } })
+                                    <i toggle="#password" class="fa fa-fw fa-eye toggle-password field-icon"></i>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="fxt-transformY-50 fxt-transition-delay-3">
+                                    <div class="fxt-checkbox-area">
+                                        <div class="checkbox">
+                                            <input id="checkbox1" type="checkbox">
+                                            <label for="checkbox1">Keep me logged in</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="fxt-transformY-50 fxt-transition-delay-4">
+                                    <button type="submit" class="fxt-btn-fill">Log in</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- jquery-->
+        <script src="~/Assets/js/jquery-3.5.0.min.js"></script>
+        <!-- Bootstrap js -->
+        <script src="~/Assets/js/bootstrap.min.js"></script>
+        <!-- Imagesloaded js -->
+        <script src="~/Assets/js/imagesloaded.pkgd.min.js"></script>
+        <!-- Validator js -->
+        <script src="~/Assets/js/validator.min.js"></script>
+        <!-- Custom Js -->
+        <script src="~/Assets/js/main.js"></script>
+
+    </body>
+
+</html>
+}

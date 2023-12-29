@@ -1,0 +1,48 @@
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\RegistrasiVaksin_Service.dll.config
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\RegistrasiVaksin_Service.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\RegistrasiVaksin_Service.pdb
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.SqlServer.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.SqlServer.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.csproj.AssemblyReference.cache
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.csproj.CoreCompileInputs.cache
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.csproj.CopyComplete
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.pdb
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\RegistrasiVaksin_Service.dll.config
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\RegistrasiVaksin_Service.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\RegistrasiVaksin_Service.pdb
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.SqlServer.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.SqlServer.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.csproj.AssemblyReference.cache
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.csproj.CoreCompileInputs.cache
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.csproj.CopyComplete
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.pdb
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\RegistrasiVaksin_Service.dll.config
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\RegistrasiVaksin_Service.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\RegistrasiVaksin_Service.pdb
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.SqlServer.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.SqlServer.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.csproj.AssemblyReference.cache
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.csproj.CoreCompileInputs.cache
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.csproj.CopyComplete
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.pdb
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\RegistrasiVaksin_Service.dll.config
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\RegistrasiVaksin_Service.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\RegistrasiVaksin_Service.pdb
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.SqlServer.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\bin\EntityFramework.SqlServer.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.csproj.AssemblyReference.cache
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.csproj.CoreCompileInputs.cache
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.csproj.CopyComplete
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\RegistrasiVaksin_Service\RegistrasiVaksin_Service\obj\Debug\RegistrasiVaksin_Service.pdb

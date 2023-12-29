@@ -1,0 +1,332 @@
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\VaksinTracking_05.dll.config
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\VaksinTracking_05.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\VaksinTracking_05.pdb
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csc.exe
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csc.exe.config
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csc.rsp
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csi.exe
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csi.exe.config
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csi.rsp
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.AppContext.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Collections.Immutable.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Console.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Globalization.Calendars.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.Compression.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.FileSystem.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Net.Http.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Net.Sockets.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Reflection.Metadata.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.ValueTuple.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.XPath.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\vbc.exe
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\vbc.exe.config
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\vbc.rsp
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\VBCSCompiler.exe
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\VBCSCompiler.exe.config
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Antlr3.Runtime.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.SqlServer.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Microsoft.Web.Infrastructure.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Newtonsoft.Json.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Helpers.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Mvc.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Optimization.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Razor.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Deployment.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Razor.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\WebGrease.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.SqlServer.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Helpers.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Mvc.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Optimization.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Razor.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Deployment.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Razor.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Newtonsoft.Json.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Antlr3.Runtime.pdb
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.csproj.AssemblyReference.cache
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.csproj.CoreCompileInputs.cache
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.csproj.CopyComplete
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.pdb
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\VaksinTracking_05.dll.config
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\VaksinTracking_05.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\VaksinTracking_05.pdb
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csc.exe
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csc.exe.config
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csc.rsp
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csi.exe
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csi.exe.config
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csi.rsp
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.AppContext.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Collections.Immutable.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Console.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Globalization.Calendars.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.Compression.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.FileSystem.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Net.Http.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Net.Sockets.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Reflection.Metadata.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.ValueTuple.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.XPath.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\vbc.exe
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\vbc.exe.config
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\vbc.rsp
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\VBCSCompiler.exe
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\VBCSCompiler.exe.config
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Antlr3.Runtime.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.SqlServer.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Microsoft.Web.Infrastructure.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Newtonsoft.Json.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Helpers.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Mvc.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Optimization.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Razor.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Deployment.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Razor.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\WebGrease.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.SqlServer.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Helpers.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Mvc.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Optimization.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Razor.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Deployment.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Razor.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Newtonsoft.Json.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Antlr3.Runtime.pdb
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.csproj.AssemblyReference.cache
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.csproj.CoreCompileInputs.cache
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.csproj.CopyComplete
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\05_32TI01-32TI02-master\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.pdb
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\VaksinTracking_05.dll.config
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\VaksinTracking_05.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\VaksinTracking_05.pdb
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csc.exe
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csc.exe.config
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csc.rsp
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csi.exe
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csi.exe.config
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csi.rsp
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.AppContext.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Collections.Immutable.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Console.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Globalization.Calendars.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.Compression.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.FileSystem.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Net.Http.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Net.Sockets.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Reflection.Metadata.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.ValueTuple.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.XPath.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\vbc.exe
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\vbc.exe.config
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\vbc.rsp
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\VBCSCompiler.exe
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\VBCSCompiler.exe.config
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Antlr3.Runtime.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.SqlServer.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Microsoft.Web.Infrastructure.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Newtonsoft.Json.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Helpers.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Mvc.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Optimization.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Razor.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Deployment.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Razor.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\WebGrease.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.SqlServer.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Helpers.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Mvc.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Optimization.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Razor.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Deployment.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Razor.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Newtonsoft.Json.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Antlr3.Runtime.pdb
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.csproj.AssemblyReference.cache
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.csproj.CoreCompileInputs.cache
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.csproj.CopyComplete
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.dll
+D:\Albert Manik\Perkuliahan\Semester 4\TEKNET\Proyek\05_32TI01-32TI02\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.pdb
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\VaksinTracking_05.dll.config
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\VaksinTracking_05.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\VaksinTracking_05.pdb
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csc.exe
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csc.exe.config
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csc.rsp
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csi.exe
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csi.exe.config
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\csi.rsp
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.AppContext.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Collections.Immutable.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Console.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Globalization.Calendars.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.Compression.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.FileSystem.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Net.Http.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Net.Sockets.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Reflection.Metadata.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.ValueTuple.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.XPath.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\vbc.exe
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\vbc.exe.config
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\vbc.rsp
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\VBCSCompiler.exe
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\roslyn\VBCSCompiler.exe.config
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Antlr3.Runtime.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.SqlServer.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Microsoft.Web.Infrastructure.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Newtonsoft.Json.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Helpers.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Mvc.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Optimization.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Razor.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Deployment.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Razor.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\WebGrease.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\EntityFramework.SqlServer.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Helpers.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Mvc.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Optimization.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.Razor.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Deployment.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\System.Web.WebPages.Razor.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Newtonsoft.Json.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Antlr3.Runtime.pdb
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.csproj.AssemblyReference.cache
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.csproj.CoreCompileInputs.cache
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.csproj.CopyComplete
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.dll
+C:\Perkuliahan\TEKNET\Vaksin Tracking_05\Vaksin Tracking_05\VaksinTracking_05\VaksinTracking_05\obj\Debug\VaksinTracking_05.pdb

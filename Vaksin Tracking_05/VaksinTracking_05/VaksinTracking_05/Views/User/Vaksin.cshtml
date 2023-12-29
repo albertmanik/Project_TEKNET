@@ -1,0 +1,269 @@
+﻿
+@{
+    ViewBag.Title = "Vaksin";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from monster.de-template.com/Kacovid/index-hero-1.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 10 May 2023 13:57:54 GMT -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="index">
+    <meta name="keywords" content=" ">
+    <meta name="description" content=" ">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> Vaccine Tracker </title>
+
+    <!-- Css Stylesheets -->
+    <link rel="stylesheet" href="~/Asset2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Asset2/css/simple-line-icons.css">
+    <link rel="stylesheet" href="~/Asset2/css/all.min.css">
+    <link rel="stylesheet" href="~/Asset2/css/style.css">
+
+    <!--  Favicon Icon  -->
+    <link rel="shortcut icon" href="favicon.html">
+
+</head>
+
+<body class="hero-1">
+    <!-- Body start -->
+    <!-- Navbar start -->
+    <nav class="navbar navbar-expand-lg stick" id="nav">
+        <div class="container">
+
+            <a href="@Url.Action("Index", "User")" class="navbar-brand logo">
+                <!-- <img src="img/logo.png" alt="logo"> -->
+                Vaccine Tracker
+            </a>
+
+            <button class="navbar-toggler p-0 border-0 mr-2" type="button" data-toggle="offcanvas"
+                    data-target="#navbarSupported" style="z-index: 50;">
+                <i class="hamburger" id="hamburger">
+                    <span class="line"></span>
+                    <span class="line"></span>
+                    <span class="line"></span>
+                    <span class="line"></span>
+                </i>
+            </button>
+
+            <div class="offcanvas-collapse navbar-collapse" id="navbarSupported">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="@Url.Action("Index", "User")">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("Vaksin", "User")">Vaksin</a>
+                    </li>
+                    @if (User.IsInRole("RumahSakit"))
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Konfirmasi", "User")">Konfirmasi</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Nik", "User")">Cek NIK</a>
+                        </li>
+                    }
+                    <li class="nav-item">
+                        @Html.ActionLink("Logout", "Logout", "Akun", new { @class = "btn btn-md ml-2" })
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Navbar end -->
+    <!-- FAQ start -->
+    <section class="faq pd-100" id="faq">
+        <div class="container">
+            @if (User.IsInRole("Masyarakat"))
+            {
+                <div class="section-title text-center py-4">
+                    <div class="alert-danger d-inline p-2 px-3 color rounded-50 small">
+                        <i class="fas fa-info-circle mr-2"></i>Nomor Registrasi Vaksin
+                    </div>
+                    <h2 class="my-4">Cari Nomor Registrasi Vaksin Anda</h2>
+                </div>
+            }
+            @if (User.IsInRole("RumahSakit"))
+            {
+                <div class="section-title text-center py-4">
+                    <div class="alert-danger d-inline p-2 px-3 color rounded-50 small">
+                        <i class="fas fa-info-circle mr-2"></i>Nomor Registrasi Vaksin
+                    </div>
+                    <h2 class="my-4">Cari Nomor Registrasi Vaksin</h2>
+                </div>
+            }
+            @if (User.IsInRole("Produsen"))
+            {
+                <div class="section-title text-center py-4">
+                    <div class="alert-danger d-inline p-2 px-3 color rounded-50 small">
+                        <i class="fas fa-info-circle mr-2"></i>Nomor Registrasi Vaksin
+                    </div>
+                    <h2 class="my-4">Registrasi Vaksin</h2>
+                </div>
+            }@if (User.IsInRole("bpom"))
+            {
+                <div class="section-title text-center py-4">
+                    <div class="alert-danger d-inline p-2 px-3 color rounded-50 small">
+                        <i class="fas fa-info-circle mr-2"></i>Daftar Vaksin yang sudah dirilis Produsen
+                    </div>
+                    <h2 class="my-4">Daftar Vaksin yang sudah dirilis Produsen</h2>
+                    @if (Session["vaksin"] != null)
+                    {
+                    <div><u>@Html.ActionLink("Lihat Vaksin yang sudah sampai di Rumah Sakit", "vaksinSampai", "User", new { @class = "text-danger" })</u></div>
+                    }
+                    <div><u>@Html.ActionLink("Lihat Vaksin yang sudah digunakan pasien", "vaksinDigunakan", "User", new { @class = "text-danger" })</u></div>
+                </div>
+            }
+            @if (User.IsInRole("Produsen"))
+            {
+                <div class="mx-5">
+                    @Html.ActionLink("Tambah Vaksin", "insertVaksin", null, new { @class = "btn btn-outline-info" })
+                </div>
+
+            }
+            <div class="row">
+                @if (User.IsInRole("Masyarakat") || User.IsInRole("RumahSakit"))
+                {
+                    <div class="mx-auto col-lg-10 col-md-6">
+                        <!-- Widget search -->
+                        <p class="form-message error">@ViewBag.error</p>
+                        <div class="sidebar search text-center">
+                            <h4 class="mr-2 mb-3">Search</h4>
+                            @using (Html.BeginForm("Vaksin", "User", FormMethod.Get))
+                            {
+                                <div class="form-row">
+                                    <div class="col-12 form-group position-relative">
+                                        <div>@Html.TextBox("search", null, new { @class = "form-control", @autofocus = "", @autocomplete = "off", @placeholder = "No register vaksin" })</div>
+                                        <div class="">
+                                            <button type="submit"
+                                                    style="position: absolute; top: 2px; right: 6px; padding: 5px 10px; border: none; background: transparent;">
+                                                <i class="fas fa-paper-plane"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                }
+                <div class="mx-auto col-lg-10 mt-md-8 mt-4 mb-lg-0 mb-4">
+                    <table class="table text-center">
+                        <tr>
+                            <th>No Register</th>
+                            <th>Tanggal Dibuat</th>
+                            @if (User.IsInRole("Produsen"))
+                            {
+                                <th>
+                                    <p>Action</p>
+                                </th>
+                            }
+                        </tr>
+                        @foreach (var item in ViewBag.vaksin)
+                        {
+                            <tr>
+                                <td>
+                                    @item.no_register
+                                </td>
+                                <td>
+                                    @item.tanggal_dibuat
+                                </td>
+                                @if (User.IsInRole("Produsen"))
+                                {
+                                    <td>
+                                        @Html.ActionLink("Hapus", "deleteVaksin", new { id = item.no_register }, new { @class = "btn btn-outline-info", onclick = "return confirm('Apah anda yakin menghapus?');" })
+                                    </td>
+                                }
+                            </tr>
+                        }
+                    </table>
+                </div>
+                <div class="col-12 text-center">
+                    <h3>Need any help!</h3>
+                    <p class="mx-auto px-0 px-lg-3 w-75 text-muted">
+                        The most common symptoms of COVID-19 are fever,
+                        tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose,
+                        sore throat or diarrhea.
+                    </p>
+                    <a href="contact.html" class="btn my-3"><i class="fas fa-phone mr-2"></i>Contact Now</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- FAQ end -->
+    <!-- Footer start -->
+    <footer class="dark-bg-color">
+        <div class="footer-top">
+            <div class="container text-white">
+                <div class="row justify-vertical py-5 mb-5">
+                    <div class="col-12 col-md-6 col-lg-3 py-2">
+                        <div class="footer-item">
+                            <h2 class="mb-4">KaCovid</h2>
+                            <p>
+                                Coronavirus disease (COVID-19) is an infectious disease caused by a new virus. The
+                                disease
+                                causes.
+                            </p>
+                            <a href="#" class="readmore_footer my-2 mt-3">
+                                Read More <i class="fas fa-arrow-alt-circle-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-3 py-2">
+                        <div class="footer-item">
+                            <h4 class="mb-4">About Us</h4>
+                            <ul class="text-muted">
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#">About</a></li>
+                                <li><a href="#">Service</a></li>
+                                <li><a href="#">Portfolio</a></li>
+                                <li><a href="#">News Feeds</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-3 py-2">
+                        <div class="footer-item">
+                            <h4 class="mb-4">Useful Links</h4>
+                            <ul class="text-muted">
+                                <li><a href="#">WHO Information</a></li>
+                                <li><a href="#">Covid-19 Wikipedia</a></li>
+                                <li><a href="#">Service</a></li>
+                                <li><a href="#">CNN News</a></li>
+                                <li><a href="#">Worldometer Info</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-3 py-2">
+                        <div class="footer-item mb-2">
+                            <h4 class="mb-4">Office Info</h4>
+                            <a class="d-block" href="tell:+911234578900">+91 1234578900</a>
+                            <a href="tell:+911234578900">+91 1234578900</a>
+                            <p class="my-2">
+                                123 Street Jaipur Rajasthan India
+                            </p>
+                            <a href="https://monster.de-template.com/cdn-cgi/l/email-protection#0e6961787a4e69636f6762206d6163"><span class="__cf_email__" data-cfemail="6700081113270e09030e064904080a">[email&#160;protected]</span></a>
+                            <a href="https://monster.de-template.com/cdn-cgi/l/email-protection#e4838b9290a48389858d88ca878b89"><span class="__cf_email__" data-cfemail="bed9d1c8cafed9d3dfd7d290ddd1d3">[email&#160;protected]</span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 py-4">
+                        <h5>All Right Reserved. 2020 <a href="#">KaCovid</a></h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer end -->
+    <!-- Js Scripts -->
+    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script src="~/Asset2/js/jquery.min.js"></script>
+    <script src="~/Asset2/js/bootstrap.min.js"></script>
+    <script src="~/Asset2/js/main.js"></script>
+
+</body><!-- Body end -->
+<!-- Mirrored from monster.de-template.com/Kacovid/index-hero-1.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 10 May 2023 13:58:07 GMT -->
+</html>
+
